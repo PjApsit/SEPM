@@ -2,7 +2,7 @@ name: Terraform Local
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "main" ]
 
 jobs:
   terraform:
